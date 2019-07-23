@@ -1,0 +1,2 @@
+1.UnityEngine.EventSystems.EventTrigger；unity大部分的事件接口与unity action合用，点击拖拽等功能
+2.ulua的编码格式使用无BOM格式，否则ios平台可能无法编译
